@@ -1,6 +1,7 @@
 ## Law Enforcement Officers Safety Act, LEOSA
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
+<img src="army.png">
 <!-- <img src="army.png"> -->
 
 The Law Enforcement Officers Safety Act (LEOSA) is a United States federal law, enacted in 2004, that allows two classes of persons - the "QUALIFIED DoD (ACTIVE) Law Enforcement Officer" and the "QUALIFIED DoD (RETIRED or SEPARATED) Law Enforcement Officer" - to carry a concealed firearm in any jurisdiction in the United States or United States Territories, regardless of state or local laws, with certain exceptions.
