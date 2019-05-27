@@ -12,6 +12,8 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 
 <a href="https://www.sheepdogacademy.com/" target="_blank">Sheepdog Acadamy</a> - Learning about HR-218/LEOSA rights, Live seminars on HR-218/LEOSA, and concealed carry.
 
-## H.R. 1156: LEOSA Reform Act <a href="https://www.govtrack.us/congress/bills/116/hr1156" target="_blank">(in Legislation)</a>
+## H.R. 1156: LEOSA Reform Act
+
+<a href="https://www.govtrack.us/congress/bills/116/hr1156" target="_blank">Note: LEOSA Reform Act is pending Legislation</a>
 
 To amend title 18, United States Code, to improve the Law Enforcement Officer Safety Act and provisions relating to the carrying of concealed weapons by law enforcement officers, and for other purposes.
