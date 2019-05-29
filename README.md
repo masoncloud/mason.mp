@@ -23,4 +23,4 @@ To amend title 18, United States Code, to improve the Law Enforcement Officer Sa
 
 ## Not a LEO & carry concealed?
 
-Find more info on your city & state laws, <a href="http://www.handgunlaw.us/" target="_blank">HERE</a>
+Find more info on your city & state laws, <a href="http://www.handgunlaw.us/" target="_blank">here</a>.
