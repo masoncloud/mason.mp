@@ -25,5 +25,4 @@ To amend title 18, United States Code, to improve the Law Enforcement Officer Sa
 
 Find more info on your City & State Laws, <a href="http://www.handgunlaw.us/" target="_blank">here</a>.
 
-## Legal Disclaimer
-<a href="https://raw.githubusercontent.com/masoncloud/Mason.MP/master/disclaimer.txt" target="_blank">Legal Disclaimer & Terms</a>.
+<a href="https://github.com/masoncloud/Mason.MP/wiki/Disclaimer" target="_blank">Legal Disclaimer & Terms</a>.
