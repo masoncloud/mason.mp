@@ -25,4 +25,10 @@ To amend title 18, United States Code, to improve the Law Enforcement Officer Sa
 
 Find more info on your City & State Laws, <a href="http://www.handgunlaw.us/" target="_blank">here</a>.
 
+Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believe in the Second Amendment, Concealed Carry and the fact that we have both a right and responsibility to take a pro-active position in our personal defense. Unfortunately, we recognize there are so many variances in our state to state laws, the average individual may have difficulty keeping up with those laws well enough to prevent them from breaking the law, especially as they travel. Since we have the ability to research those laws and create an informative Concealed Carry specific site, we have done so.
+
+## Who is Mason.MP?
+More on the webmaster, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">here</a>.
+
+## Legal Disclaimer:
 <a href="https://github.com/masoncloud/Mason.MP/wiki/Disclaimer" target="_blank">Legal Disclaimer & Terms</a>.
