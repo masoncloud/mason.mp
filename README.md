@@ -11,7 +11,7 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 
 ## Already HR-218 and want to stay compliant?
 
-<a href="https://www.sheepdogacademy.com/" target="_blank">Sheepdog Acadamy</a> - Learning about HR-218/LEOSA rights, Live seminars on HR-218/LEOSA, and concealed carry.
+<a href="https://www.sheepdogacademy.com/" target="_blank">Sheepdog Acadamy</a> - Learn about HR-218/LEOSA rights, Live seminars!
 
 ## H.R. 1156: LEOSA Reform Act
 
@@ -20,3 +20,7 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 To amend title 18, United States Code, to improve the Law Enforcement Officer Safety Act and provisions relating to the carrying of concealed weapons by law enforcement officers, and for other purposes.
 
 <!-- <img src="warning.jpg"> -->
+
+## Not a LEO & carry concealed?
+
+Find more info on your city & state laws, <a href="http://www.handgunlaw.us/" target="_blank">HERE</a>
