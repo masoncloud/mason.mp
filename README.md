@@ -31,8 +31,8 @@ Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believ
 For the purpose of this site, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
 
 ## View Newsletter(s):
- <a href="https://github.com/masoncloud/Mason.MP/blob/master/Oct_2019.pdf" target="_blank">Oct 2019 (PDF Format Only)</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/Oct_2019.pdf" target="_blank">Oct 2019 (PDF Format Only)</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/Sept_2019.pdf" target="_blank">Sept 2019 (PDF Format Only)</a><br>
- <a href="https://github.com/masoncloud/Mason.MP/blob/master/Aug_2019.pdf" target="_blank">Aug 2019 (PDF Format Only)</a><br>
- <a href="https://github.com/masoncloud/Mason.MP/blob/master/July_2019.pdf" target="_blank">July 2019 (PDF Format Only)</a><br>
- <a href="https://github.com/masoncloud/Mason.MP/blob/master/June_2019.pdf" target="_blank">June 2019 (PDF Format Only)</a>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/Aug_2019.pdf" target="_blank">Aug 2019 (PDF Format Only)</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/July_2019.pdf" target="_blank">July 2019 (PDF Format Only)</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/June_2019.pdf" target="_blank">June 2019 (PDF Format Only)</a>
