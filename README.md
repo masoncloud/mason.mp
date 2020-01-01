@@ -31,6 +31,11 @@ Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believ
 For the purpose of this site, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
 
 ## View Newsletter(s):
+
+## 2020 Newsletters:
+Nothing released yet...
+
+## 2019 Newsletters:
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/Dec_2019.pdf" target="_blank">Dec 2019 (PDF Format Only)</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/Nov_2019.pdf" target="_blank">Nov 2019 (PDF Format Only)</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/Oct_2019.pdf" target="_blank">Oct 2019 (PDF Format Only)</a><br>
