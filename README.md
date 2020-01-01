@@ -27,17 +27,8 @@ Find more info on your City & State Laws, <a href="http://www.handgunlaw.us/" ta
 
 Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believe in the Second Amendment, Concealed Carry and the fact that we have both a right and responsibility to take a pro-active position in our personal defense. Unfortunately, we recognize there are so many variances in our state to state laws, the average individual may have difficulty keeping up with those laws well enough to prevent them from breaking the law, especially as they travel. Since we have the ability to research those laws and create an informative Concealed Carry specific site, we have done so.
 
+## Latest Newsletter:
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/Dec_2019.pdf" target="_blank">December 2019 (PDF Format Only)</a><br>
+
 ## Who is Mason.MP?
 For the purpose of this site, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
-
-## 2020 Newsletters:
-Nothing released yet...
-
-## 2019 Newsletters:
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/Dec_2019.pdf" target="_blank">Dec 2019 (PDF Format Only)</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/Nov_2019.pdf" target="_blank">Nov 2019 (PDF Format Only)</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/Oct_2019.pdf" target="_blank">Oct 2019 (PDF Format Only)</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/Sept_2019.pdf" target="_blank">Sept 2019 (PDF Format Only)</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/Aug_2019.pdf" target="_blank">Aug 2019 (PDF Format Only)</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/July_2019.pdf" target="_blank">July 2019 (PDF Format Only)</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/June_2019.pdf" target="_blank">June 2019 (PDF Format Only)</a>
