@@ -27,8 +27,8 @@ Find more info on your City & State Laws, <a href="http://www.handgunlaw.us/" ta
 
 Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believe in the Second Amendment, Concealed Carry and the fact that we have both a right and responsibility to take a pro-active position in our personal defense. Unfortunately, we recognize there are so many variances in our state to state laws, the average individual may have difficulty keeping up with those laws well enough to prevent them from breaking the law, especially as they travel. Since we have the ability to research those laws and create an informative Concealed Carry specific site, we have done so.
 
-## Latest Newsletter:
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/Dec_2019.pdf" target="_blank">December 2019 (PDF Format Only)</a><br>
-
 ## Who is Mason.MP?
 For the purpose of this site, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
+
+## Newsletter:
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/Dec_2019.pdf" target="_blank">December 2019 (PDF Format Only)</a>
