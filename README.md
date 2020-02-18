@@ -32,5 +32,5 @@ For the purpose of this site, <a href="https://github.com/masoncloud/Mason.MP/wi
 
 ## Newsletter
 
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">February 2020</a>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">February 2020</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/January_2020.pdf" target="_blank">January 2020</a>
