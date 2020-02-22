@@ -31,7 +31,7 @@ Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believ
 Referral link, <a href="https://ccwsafe.com/ref/C47612099" target="_blank">CCW Safe</a>.
 
 ## Who's Mason.MP?
-For the purpose of this site, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
+For more info, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
 
 ## Newsletter
 
