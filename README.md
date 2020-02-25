@@ -21,7 +21,7 @@ To amend title 18, United States Code, to improve the Law Enforcement Officer Sa
 
 ## CA/Large-Capacity Magazines
 
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/PEN_32400.pdf" target="_blank">Exceptions Relating Specifically to Large-Capacity Magazines; {PEN_32400}</a>.
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/PEN_32400.pdf" target="_blank">Exceptions Relating Specifically to Large-Capacity Magazines</a>.
 
 ## Not a LEO & Carry Concealed?
 
