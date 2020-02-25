@@ -19,7 +19,9 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 
 To amend title 18, United States Code, to improve the Law Enforcement Officer Safety Act and provisions relating to the carrying of concealed weapons by law enforcement officers, and for other purposes.
 
-<!-- <img src="warning.jpg"> -->
+## CA/Large-Capacity Magazines
+
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/PEN_32400.pdf" target="_blank">Exceptions Relating Specifically to Large-Capacity Magazines; {PEN_32400}</a>.
 
 ## Not a LEO & Carry Concealed?
 
@@ -30,10 +32,12 @@ Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believ
 ## Need Insurance?
 Referral link, <a href="https://ccwsafe.com/ref/C47612099" target="_blank">CCW Safe</a>.
 
-## Who's Mason.MP?
-For more info, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
-
 ## Newsletter
 
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">February 2020</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/January_2020.pdf" target="_blank">January 2020</a>
+
+## WhoAmI?
+For more info, <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">see our Wiki</a>.
+
+<!-- <img src="example_image_here.jpg"> -->
