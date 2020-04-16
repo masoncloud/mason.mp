@@ -34,10 +34,10 @@ Referral link, <a href="https://ccwsafe.com/ref/C47612099" target="_blank">CCW S
 
 ## Blotter(s) [2020]
 
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/April_2020.pdf" target="_blank">Apr Newsletter</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/March_2020.pdf" target="_blank">Mar Newsletter</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">Feb Newsletter</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/January_2020.pdf" target="_blank">Jan Newsletter</a>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/April_2020.pdf" target="_blank">Apr - DCS Newsletter</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/March_2020.pdf" target="_blank">Mar - DCS Newsletter</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">Feb - DCS Newsletter</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/January_2020.pdf" target="_blank">Jan - DCS Newsletter</a>
 
 ## WhoAmI?
 <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">View our Wiki</a>.
