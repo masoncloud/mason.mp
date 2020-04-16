@@ -32,7 +32,7 @@ Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believ
 ## Need Insurance?
 Referral link, <a href="https://ccwsafe.com/ref/C47612099" target="_blank">CCW Safe</a>.
 
-## DCS Blotter/Newsletters
+## Newsletters
 
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/April_2020.pdf" target="_blank">Apr 2020 - DCS Blotter</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/March_2020.pdf" target="_blank">Mar 2020 - DCS Blotter</a><br>
