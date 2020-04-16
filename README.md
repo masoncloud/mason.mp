@@ -32,12 +32,12 @@ Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believ
 ## Need Insurance?
 Referral link, <a href="https://ccwsafe.com/ref/C47612099" target="_blank">CCW Safe</a>.
 
-## Blotter(s) [2020]
+## DCS Blotter/Newsletters
 
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/April_2020.pdf" target="_blank">Apr - DCS Newsletter</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/March_2020.pdf" target="_blank">Mar - DCS Newsletter</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">Feb - DCS Newsletter</a><br>
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/January_2020.pdf" target="_blank">Jan - DCS Newsletter</a>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/April_2020.pdf" target="_blank">Apr 2020 - DCS Blotter</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/March_2020.pdf" target="_blank">Mar 2020 - DCS Blotter</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">Feb 2020 - DCS Blotter</a><br>
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/January_2020.pdf" target="_blank">Jan 2020 - DCS Blotter</a>
 
 ## WhoAmI?
 <a href="https://github.com/masoncloud/Mason.MP/wiki/" target="_blank">View our Wiki</a>.
