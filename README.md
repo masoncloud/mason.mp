@@ -34,6 +34,7 @@ Referral link, <a href="https://ccwsafe.com/ref/C47612099" target="_blank">CCW S
 
 ## Blotter [DCS]
 
+<a href="https://github.com/masoncloud/Mason.MP/blob/master/May_2020.pdf" target="_blank">* May 2020</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/April_2020.pdf" target="_blank">* Apr 2020</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/March_2020.pdf" target="_blank">* Mar 2020</a><br>
 <a href="https://github.com/masoncloud/Mason.MP/blob/master/February_2020.pdf" target="_blank">* Feb 2020</a><br>
