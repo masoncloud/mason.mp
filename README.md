@@ -13,11 +13,11 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 
 <a href="https://www.sheepdogacademy.com/" target="_blank">Sheepdog Acadamy</a> - Learn about HR-218/LEOSA rights, Live seminars!
 
-## California & Large-Capacity Magazines {Cal. Penal Code § 32440}
+## California & Large-Capacity Magazines {Cal. Penal Code § 32310 & 32440}
 
-Large capacity magazines may be manufactured for any federal, state, or local government or law enforcement agency, the military, or for use by agency employees in the discharge of their official duties, whether on or off duty.
+* Section 32310; does not apply to the sale of, giving of, lending of, possession of, importation into this state of, or purchase of, any large-capacity magazine to or by any federal, state, county, city and county, or city agency that is charged with the enforcement of any law, for use by agency employees in the discharge of their official duties, whether on or off duty, and where the use is authorized by the agency and is within the course and scope of their duties.
 
-#<a href="https://github.com/masoncloud/Mason.MP/blob/master/PEN_32400.pdf" target="_blank">Exceptions Relating Specifically to Large-Capacity Magazines</a>.
+* Section 32440; Large capacity magazines may be manufactured for any federal, state, or local government or law enforcement agency, the military, or for use by agency employees in the discharge of their official duties, whether on or off duty.
 
 ## H.R. 1156: LEOSA Reform Act
 
