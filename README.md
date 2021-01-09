@@ -13,15 +13,17 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 
 <a href="https://www.sheepdogacademy.com/" target="_blank">Sheepdog Acadamy</a> - Learn about HR-218/LEOSA rights, Live seminars!
 
-## California & Large-Capacity Magazines
+## California & Large-Capacity Magazines {Cal. Penal Code § 32440}
 
-<a href="https://github.com/masoncloud/Mason.MP/blob/master/PEN_32400.pdf" target="_blank">Exceptions Relating Specifically to Large-Capacity Magazines</a>.
+Large capacity magazines may be manufactured for any federal, state, or local government or law enforcement agency, the military, or for use by agency employees in the discharge of their official duties, whether on or off duty.
+
+#<a href="https://github.com/masoncloud/Mason.MP/blob/master/PEN_32400.pdf" target="_blank">Exceptions Relating Specifically to Large-Capacity Magazines</a>.
 
 ## H.R. 1156: LEOSA Reform Act
 
 To amend title 18, United States Code, to improve the Law Enforcement Officer Safety Act and provisions relating to the carrying of concealed weapons by law enforcement officers, and for other purposes. <br>
 
-<a href="https://www.govtrack.us/congress/bills/116/hr1156" target="_blank">Note: LEOSA Reform Act is pending Legislation</a>
+<!-- <a href="https://www.govtrack.us/congress/bills/116/hr1156" target="_blank">Note: LEOSA Reform Act is pending Legislation</a> -->
 
 ## Not a LEO & Carry Concealed?
 
