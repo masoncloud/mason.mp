@@ -24,12 +24,6 @@ The LEOSA Reform Act has been endorsed by 25 professional law enforcement organi
 
 <!-- <a href="https://www.govtrack.us/congress/bills/116/hr1156" target="_blank">Note: LEOSA Reform Act is pending Legislation</a> -->
 
-## Not a LEO & Carry Concealed?
-
-Find more info on your City & State Laws, <a href="http://www.handgunlaw.us/" target="_blank">here</a>.
-
-Disclaimer: This site is owned by Steve Aikens and Gary Slider. We firmly believe in the Second Amendment, Concealed Carry and the fact that we have both a right and responsibility to take a pro-active position in our personal defense. Unfortunately, we recognize there are so many variances in our state to state laws, the average individual may have difficulty keeping up with those laws well enough to prevent them from breaking the law, especially as they travel. Since we have the ability to research those laws and create an informative Concealed Carry specific site, we have done so.
-
 ## Do you meet the LEOSA DoD Requirements?
 Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blank">Army</a> <> <a href="https://leosaairforce.com/" target="_blank">Air Force</a> <> <a href="https://usmcleosa.com/" target="_blank">Marines</a> <> <a href="https://leosanavy.com/" target="_blank">Navy</a>
 
@@ -40,6 +34,10 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 ## Large-Capacity Magazines in California
 
 <a href="https://giffords.org/lawcenter/state-laws/large-capacity-magazines-in-california/#footnote_6_16045/" target="_blank">Giffords Law Center to Prevent Gun Violence.</a>
+
+## Not an LEO but Carry Concealed using a State-Issued Permit?
+
+Find more info on your City & State Laws, <a href="http://www.handgunlaw.us/" target="_blank">here</a>.
 
 ## Need Insurance?
 Referral link, <a href="https://ccwsafe.com/ref/C47612099" target="_blank">CCW Safe</a>.
