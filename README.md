@@ -15,7 +15,7 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 
 ## Large-Capacity Magazines in California
 
-<a href="https://giffords.org/lawcenter/state-laws/large-capacity-magazines-in-california/#footnote_6_16045/" target="_blank">Giffords Law Center to Prevent Gun Violence. Last Updated; APRIL 2, 2021</a>
+<a href="https://giffords.org/lawcenter/state-laws/large-capacity-magazines-in-california/#footnote_6_16045/" target="_blank">Giffords Law Center to Prevent Gun Violence.</a>
 
 ## H.R. 1156: LEOSA Reform Act
 
