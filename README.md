@@ -35,7 +35,7 @@ Click onto each Branch, for info: <a href="https://leosaarmy.com/" target="_blan
 
 <a href="https://giffords.org/lawcenter/state-laws/large-capacity-magazines-in-california/#footnote_6_16045/" target="_blank">Giffords Law Center to Prevent Gun Violence.</a>
 
-## Not an LEO but Carry Concealed using a State-Issued Permit?
+## Handgun Laws & Other State Information
 
 Find more info on your City & State Laws, <a href="http://www.handgunlaw.us/" target="_blank">here</a>.
 
