@@ -25,7 +25,7 @@ The LEOSA Reform Act has been endorsed by 25 professional law enforcement organi
 <!-- <a href="https://www.govtrack.us/congress/bills/116/hr1156" target="_blank">Note: LEOSA Reform Act is pending Legislation</a> -->
 
 ## Do you meet the LEOSA DoD Requirements?
-To apply: Click onto your corresponding Branch, listed below: <br> <a href="https://leosaarmy.com/" target="_blank">U.S. Army</a> | <a href="https://leosanavy.com/" target="_blank">U.S. Navy</a> | <a href="https://leosaairforce.com/" target="_blank">U.S. Air Force</a> | <a href="https://leosacoastguard.com/" target="_blank">U.S. Coast Guard</a>
+To apply: Click onto your corresponding Branch, below; <br> <a href="https://leosaarmy.com/" target="_blank">U.S. Army</a> | <a href="https://leosanavy.com/" target="_blank">U.S. Navy</a> | <a href="https://leosaairforce.com/" target="_blank">U.S. Air Force</a> | <a href="https://leosacoastguard.com/" target="_blank">U.S. Coast Guard</a>
 
 ## Already HR-218 and want to stay compliant?
 
